@@ -1,7 +1,21 @@
-<html>
-  <head>  
-    <title>Calculadora de precios - SOS Music</title>
-    
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=7">
+    <title>Calculadora de precios</title>
     <!-- Bootstrap Styles -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
   
@@ -9,7 +23,7 @@
   <body class="container pt-5">
     <div class="mx-auto .col-sm- card shadow" style="max-width: 600px">
       <div class="card-header">
-        <h2>Calculadora SOS Music</h2>
+        <h2>Calculadora de precios</h2>
       </div>
       <div class="card-body">
         <form class="" action="">
