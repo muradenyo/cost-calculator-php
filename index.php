@@ -1,6 +1,5 @@
 <html>
-  <head>
-    
+  <head>  
     <title>Calculadora de precios - SOS Music</title>
     
     <!-- Bootstrap Styles -->
@@ -42,7 +41,7 @@
           <div class="row p-3">
             <input class="col-2" type="number" name="users" min="10" value="10">
             <div class="col">
-              <label for="users">unidades</label>
+              <label for="users">Premium Licenses</label>
             </div>
           </div>
           <div class="mt-3">
